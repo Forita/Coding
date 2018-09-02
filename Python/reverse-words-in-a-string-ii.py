@@ -1,12 +1,11 @@
 
 from __future__ import print_function
 # O(n) runtime, O(1) space
-#
+
 # Given an input string, reverse the string word by word.
-#
+
 # The input string does not contain leading or trailing spaces
 # and the words are always separated by a single space.
-#
 
 class Solution(object):
     def reverseWords(self, s):
