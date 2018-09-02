@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-# O(n) runtime, O(n) space
+# O(n) runtime, O(n) space.
 # Given an input string, reverse the string word by word.
 # For example,
 # Given s = "the sky is blue",
