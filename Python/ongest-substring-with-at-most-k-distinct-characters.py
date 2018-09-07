@@ -1,4 +1,3 @@
-
 # O(n) runtime, O(1) space
 
 class Solution(object):
