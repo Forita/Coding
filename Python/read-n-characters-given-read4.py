@@ -10,10 +10,10 @@ from __future__ import print_function
 # Note:
 # The read function will only be called once for each test case.
 #
-
 # The read4 API is already defined for you.
 # @param buf, a list of characters
 # @return an integer
+
 def read4(buf):
     global file_content
     i = 0
